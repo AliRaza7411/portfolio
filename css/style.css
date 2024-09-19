@@ -5,6 +5,13 @@
     --light: #FAFAFB;
     --dark: #12141D;
 }
+.portfolio-img{
+    height: 293px;
+    text-align: center;
+}
+.portfolio-img img{
+        height: 302px;
+}
 
 .back-to-top {
     position: fixed;
